@@ -1,0 +1,25 @@
+header{
+background-color: lightblue;
+color: dimgray;
+}
+body{
+	background-color: ghostwhite;
+}
+img{
+	margin-left: 190px; 
+	border: 2px solid black;
+	height:1000px;
+	width:900px;
+}
+button{
+	height: 50px;
+	width: 100%;
+	font-family:verdana;
+	font-size: 18px;
+	background-color: white;
+}
+button:hover{
+	color: red;
+	font-size: 20px;
+	transition: 0.3s;
+}
